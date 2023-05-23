@@ -1,0 +1,12 @@
+{
+  "Modality": "petct",
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "ManufacturerModelName": "Discovery RX",
+  "TracerName": "FDG -- fluorodeoxyglucose",
+  "TracerRadionuclide": "18F",
+  "InjectedRadioactivity": 133.19999,
+  "InjectedRadioactivityUnit": "MBq",
+  "InjectedVolume": 0.60000,
+  "InjectedVolumeUnit": "mL",
+  "
+}

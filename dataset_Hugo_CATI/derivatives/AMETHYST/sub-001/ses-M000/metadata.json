@@ -1,0 +1,25 @@
+{
+	"Steps": [
+	{
+		"AMETHYST": {
+		    "destination_space": "mni",
+		    "TPM_template": "SPM12_TPM",
+		    "preprocess": true,
+		    "do_SUV": false,
+		    "PVC": true,
+			"PVC_method": "RBV-sGTM",
+			"FWHM": 7.3,
+			"intensity_normalisation": true,
+			"voi_reference": "rawdata/rois/ponspickatlas.nii",
+			"intersect_VR": true,
+			"intersect_VR_with": "white",
+			"smooth_pet_mean": true,
+			"smooth_pet_parametric": true,
+			"voi_based_analysis": true,
+			"voi_statistic": "rawdata/rois/AAL120.nii",
+			"intersect_VS": true,
+			"intersect_VS_with": "grey"
+		}
+	}
+	]
+}
