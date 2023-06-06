@@ -3,9 +3,9 @@
     "Sources": "/Users/martinnorgaard/Documents/GitHub/petprep_hmc/data/sub-01/ses-baseline/pet/sub-01_ses-baseline_pet.nii.gz",
     "ReferenceImage": "Robust template using mri_robust_register",
     "CostFunction": "ROB",
-    "MC treshold": "20",
-    "MC FWHM": "10",
-    "MC start time": "120",
+    "MCTreshold": "20",
+    "MCFWHM": "10",
+    "MCStartTime": "120",
     "QC": [
         "sub-01_ses-baseline_desc-with_motion_correction.gif",
         "sub-01_ses-baseline_desc-without_motion_correction.gif",
