@@ -1,0 +1,23 @@
+{
+  "ParentFraction": {
+    "Method": ["Fit Hierarchically: HGAM"],
+    "starttime": [0.01],
+    "hgam_formula": ["s(time, k=8) + s(time, InstitutionName, bs='fs', k=5) + s(time, pet, bs='fs', k=5)"]
+  },
+  "BPR": {
+    "Method": ["Fit Individually: GAM"],
+    "starttime": [0.01],
+    "gam_k": [5]
+  },
+  "AIF": {
+    "Method": ["Fit Individually: Splines"],
+    "starttime": [0.1],
+    "spline_kb": [""],
+    "spline_ka_m": [""],
+    "spline_ka_a": [""]
+  },
+  "WholeBlood": {
+    "Method": ["Interpolation"],
+    "dispcor": [false]
+  }
+}
