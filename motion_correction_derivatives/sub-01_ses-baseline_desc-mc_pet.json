@@ -6,7 +6,10 @@
     "MC treshold": "20",
     "MC FWHM": "10",
     "MC start time": "120",
-    "QC": "",
+    "QC": [
+        "sub-01_ses-baseline_desc-with_motion_correction.gif",
+        "sub-01_ses-baseline_desc-without_motion_correction.gif"
+    ],
     "SoftwareName": "PETPrep HMC workflow",
     "SoftwareVersion": "0.0.6",
     "CommandLine": "run.py --bids_dir /Users/martinnorgaard/Documents/GitHub/petprep_hmc/data --n_procs 10"
