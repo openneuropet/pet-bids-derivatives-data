@@ -1,0 +1,15 @@
+{
+  "Description": "Registration file to go from PET space to ANAT space",
+  "Sources": [
+    "/derivatives/PETPrep/sub-PS11/ses-baselinebrain/pet/sub-PS11_ses-baselinebrain_space-T1w_desc-twa_pet.nii.gz",
+    "/derivatives/PETPrep/sub-PS11/ses-baselinebrain/anat/sub-PS11_ses-baselinebrain_space-T1w_desc-brain_mask.nii.gz"
+  ],
+  "ReferenceImage": "/derivatives/PETPrep/sub-PS11/ses-baselinebrain/anat/sub-PS11_ses-baselinebrain_space-T1w_desc-brain_mask.nii.gz",
+  "dof": 6,
+  "QC": [
+    "/derivatives/PETPrep/logs/sub-PS11/sub-PS11_ses-baselinebrain_from-pet_to-t1w_reg.svg"
+  ],
+  "SoftwareName": "FreeSurfer-mri_coreg",
+  "SoftwareVersion": "mri_coreg freesurfer dev\n",
+  "CommandLine": "mri_coreg --s sub-PS11 --mov /derivatives/PETPrep/sub-PS11/ses-baselinebrain/pet/sub-PS11_ses-baselinebrain_space-T1w_desc-twa_pet.nii.gz --reg /derivatives/PETPrep/sub-PS11/ses-baselinebrain/pet/sub-PS11_ses-baselinebrain_from-pet_to-t1w_reg.lta"
+}
