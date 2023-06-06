@@ -1,0 +1,1082 @@
+{
+  "Precentral_L": {
+    "point_count": 3342,
+    "volume": 11279.2,
+    "mean": 1.86281,
+    "stddev": 0.365019,
+    "min": 0.541241,
+    "max": 2.75937,
+    "median": 1.90353
+  },
+  "Precentral_R": {
+    "point_count": 2813,
+    "volume": 9493.88,
+    "mean": 1.81082,
+    "stddev": 0.33991,
+    "min": 0.736005,
+    "max": 2.65722,
+    "median": 1.83921
+  },
+  "Frontal_Sup_2_L": {
+    "point_count": 4780,
+    "volume": 16132.5,
+    "mean": 1.82902,
+    "stddev": 0.340624,
+    "min": 0.74717,
+    "max": 2.74765,
+    "median": 1.86134
+  },
+  "Frontal_Sup_2_R": {
+    "point_count": 5300,
+    "volume": 17887.5,
+    "mean": 1.81686,
+    "stddev": 0.338418,
+    "min": 0.773324,
+    "max": 2.88486,
+    "median": 1.84398
+  },
+  "Frontal_Mid_2_L": {
+    "point_count": 4869,
+    "volume": 16432.9,
+    "mean": 1.93439,
+    "stddev": 0.334324,
+    "min": 0.716788,
+    "max": 2.8288,
+    "median": 1.97384
+  },
+  "Frontal_Mid_2_R": {
+    "point_count": 5024,
+    "volume": 16956,
+    "mean": 1.95295,
+    "stddev": 0.348296,
+    "min": 0.819021,
+    "max": 2.80465,
+    "median": 1.99429
+  },
+  "Frontal_Inf_Oper_L": {
+    "point_count": 1124,
+    "volume": 3793.5,
+    "mean": 1.89257,
+    "stddev": 0.3479,
+    "min": 0.774192,
+    "max": 2.627,
+    "median": 1.96213
+  },
+  "Frontal_Inf_Oper_R": {
+    "point_count": 1428,
+    "volume": 4819.5,
+    "mean": 1.81396,
+    "stddev": 0.323631,
+    "min": 0.801974,
+    "max": 2.73019,
+    "median": 1.84566
+  },
+  "Frontal_Inf_Tri_L": {
+    "point_count": 2742,
+    "volume": 9254.25,
+    "mean": 1.89306,
+    "stddev": 0.332068,
+    "min": 0.843438,
+    "max": 2.76426,
+    "median": 1.94737
+  },
+  "Frontal_Inf_Tri_R": {
+    "point_count": 1909,
+    "volume": 6442.88,
+    "mean": 1.87964,
+    "stddev": 0.331212,
+    "min": 0.788872,
+    "max": 2.66943,
+    "median": 1.91481
+  },
+  "Frontal_Inf_Orb_2_L": {
+    "point_count": 969,
+    "volume": 3270.38,
+    "mean": 1.73756,
+    "stddev": 0.330611,
+    "min": 0.28596,
+    "max": 2.54728,
+    "median": 1.77171
+  },
+  "Frontal_Inf_Orb_2_R": {
+    "point_count": 948,
+    "volume": 3199.5,
+    "mean": 1.74622,
+    "stddev": 0.336086,
+    "min": 0.368844,
+    "max": 2.47488,
+    "median": 1.78736
+  },
+  "Rolandic_Oper_L": {
+    "point_count": 1403,
+    "volume": 4735.12,
+    "mean": 1.65199,
+    "stddev": 0.294695,
+    "min": 0.728775,
+    "max": 2.48835,
+    "median": 1.66514
+  },
+  "Rolandic_Oper_R": {
+    "point_count": 1775,
+    "volume": 5990.62,
+    "mean": 1.6837,
+    "stddev": 0.269164,
+    "min": 0.769617,
+    "max": 2.38752,
+    "median": 1.71471
+  },
+  "Supp_Motor_Area_L": {
+    "point_count": 2002,
+    "volume": 6756.75,
+    "mean": 1.86789,
+    "stddev": 0.349566,
+    "min": 0.837713,
+    "max": 2.71431,
+    "median": 1.92555
+  },
+  "Supp_Motor_Area_R": {
+    "point_count": 2487,
+    "volume": 8393.62,
+    "mean": 1.85039,
+    "stddev": 0.33612,
+    "min": 0.888292,
+    "max": 2.68665,
+    "median": 1.90413
+  },
+  "Olfactory_L": {
+    "point_count": 404,
+    "volume": 1363.5,
+    "mean": 1.37518,
+    "stddev": 0.240601,
+    "min": 0.623526,
+    "max": 1.90986,
+    "median": 1.40841
+  },
+  "Olfactory_R": {
+    "point_count": 360,
+    "volume": 1215,
+    "mean": 1.23194,
+    "stddev": 0.277246,
+    "min": 0.410345,
+    "max": 1.83616,
+    "median": 1.23431
+  },
+  "Frontal_Sup_Medial_L": {
+    "point_count": 2657,
+    "volume": 8967.38,
+    "mean": 1.80374,
+    "stddev": 0.337995,
+    "min": 0.656101,
+    "max": 2.66157,
+    "median": 1.85323
+  },
+  "Frontal_Sup_Medial_R": {
+    "point_count": 2468,
+    "volume": 8329.5,
+    "mean": 1.75707,
+    "stddev": 0.319791,
+    "min": 0.319547,
+    "max": 2.50701,
+    "median": 1.8072
+  },
+  "Frontal_Med_Orb_L": {
+    "point_count": 926,
+    "volume": 3125.25,
+    "mean": 1.77574,
+    "stddev": 0.302919,
+    "min": 0.834388,
+    "max": 2.43475,
+    "median": 1.79144
+  },
+  "Frontal_Med_Orb_R": {
+    "point_count": 1180,
+    "volume": 3982.5,
+    "mean": 1.78957,
+    "stddev": 0.282013,
+    "min": 0.783563,
+    "max": 2.34302,
+    "median": 1.85351
+  },
+  "Rectus_L": {
+    "point_count": 1216,
+    "volume": 4104,
+    "mean": 1.64008,
+    "stddev": 0.279189,
+    "min": 0.635693,
+    "max": 2.34333,
+    "median": 1.67798
+  },
+  "Rectus_R": {
+    "point_count": 1179,
+    "volume": 3979.12,
+    "mean": 1.67223,
+    "stddev": 0.256519,
+    "min": 0.830903,
+    "max": 2.26831,
+    "median": 1.71945
+  },
+  "OFCmed_L": {
+    "point_count": 832,
+    "volume": 2808,
+    "mean": 1.78027,
+    "stddev": 0.289574,
+    "min": 0.836073,
+    "max": 2.50538,
+    "median": 1.82353
+  },
+  "OFCmed_R": {
+    "point_count": 994,
+    "volume": 3354.75,
+    "mean": 1.78706,
+    "stddev": 0.307078,
+    "min": 0.727098,
+    "max": 2.76377,
+    "median": 1.81285
+  },
+  "OFCant_L": {
+    "point_count": 739,
+    "volume": 2494.12,
+    "mean": 1.89459,
+    "stddev": 0.258192,
+    "min": 0.971964,
+    "max": 2.64363,
+    "median": 1.93063
+  },
+  "OFCant_R": {
+    "point_count": 874,
+    "volume": 2949.75,
+    "mean": 1.83602,
+    "stddev": 0.309947,
+    "min": 0.617539,
+    "max": 2.69195,
+    "median": 1.87159
+  },
+  "OFCpost_L": {
+    "point_count": 936,
+    "volume": 3159,
+    "mean": 1.70489,
+    "stddev": 0.294054,
+    "min": 0.700725,
+    "max": 2.36716,
+    "median": 1.74591
+  },
+  "OFCpost_R": {
+    "point_count": 714,
+    "volume": 2409.75,
+    "mean": 1.63272,
+    "stddev": 0.314575,
+    "min": 0.568188,
+    "max": 2.25341,
+    "median": 1.67211
+  },
+  "OFClat_L": {
+    "point_count": 309,
+    "volume": 1042.88,
+    "mean": 1.81355,
+    "stddev": 0.344419,
+    "min": 0.711894,
+    "max": 2.5839,
+    "median": 1.85063
+  },
+  "OFClat_R": {
+    "point_count": 184,
+    "volume": 621,
+    "mean": 1.67983,
+    "stddev": 0.392247,
+    "min": 0.602126,
+    "max": 2.43985,
+    "median": 1.7823
+  },
+  "Insula_L": {
+    "point_count": 2980,
+    "volume": 10057.5,
+    "mean": 1.56405,
+    "stddev": 0.254116,
+    "min": 0.64656,
+    "max": 2.23263,
+    "median": 1.58794
+  },
+  "Insula_R": {
+    "point_count": 2437,
+    "volume": 8224.88,
+    "mean": 1.51595,
+    "stddev": 0.260607,
+    "min": 0.60453,
+    "max": 2.21496,
+    "median": 1.54578
+  },
+  "Cingulate_Ant_L": {
+    "point_count": 1987,
+    "volume": 6706.12,
+    "mean": 1.60793,
+    "stddev": 0.328469,
+    "min": 0.58194,
+    "max": 2.71045,
+    "median": 1.62757
+  },
+  "Cingulate_Ant_R": {
+    "point_count": 1983,
+    "volume": 6692.62,
+    "mean": 1.63066,
+    "stddev": 0.281776,
+    "min": 0.689142,
+    "max": 2.41118,
+    "median": 1.67261
+  },
+  "Cingulate_Mid_L": {
+    "point_count": 2560,
+    "volume": 8640,
+    "mean": 1.77898,
+    "stddev": 0.334371,
+    "min": 0.679744,
+    "max": 2.58151,
+    "median": 1.8237
+  },
+  "Cingulate_Mid_R": {
+    "point_count": 3393,
+    "volume": 11451.4,
+    "mean": 1.83824,
+    "stddev": 0.318745,
+    "min": 0.779203,
+    "max": 2.61297,
+    "median": 1.89024
+  },
+  "Cingulate_Post_L": {
+    "point_count": 589,
+    "volume": 1987.88,
+    "mean": 2.17705,
+    "stddev": 0.336146,
+    "min": 0.509922,
+    "max": 2.8189,
+    "median": 2.27789
+  },
+  "Cingulate_Post_R": {
+    "point_count": 269,
+    "volume": 907.875,
+    "mean": 2.00018,
+    "stddev": 0.345394,
+    "min": 0.78313,
+    "max": 2.54956,
+    "median": 2.07642
+  },
+  "Hippocampus_L": {
+    "point_count": 1489,
+    "volume": 5025.38,
+    "mean": 1.32496,
+    "stddev": 0.220917,
+    "min": 0.522675,
+    "max": 1.87979,
+    "median": 1.38593
+  },
+  "Hippocampus_R": {
+    "point_count": 1520,
+    "volume": 5130,
+    "mean": 1.38066,
+    "stddev": 0.244821,
+    "min": 0.421389,
+    "max": 2.08444,
+    "median": 1.38165
+  },
+  "ParaHippocampal_L": {
+    "point_count": 1451,
+    "volume": 4897.12,
+    "mean": 1.25063,
+    "stddev": 0.27307,
+    "min": 0.314013,
+    "max": 1.89074,
+    "median": 1.2994
+  },
+  "ParaHippocampal_R": {
+    "point_count": 1718,
+    "volume": 5798.25,
+    "mean": 1.35118,
+    "stddev": 0.25246,
+    "min": 0.482209,
+    "max": 1.98455,
+    "median": 1.34441
+  },
+  "Amygdala_L": {
+    "point_count": 417,
+    "volume": 1407.38,
+    "mean": 1.27693,
+    "stddev": 0.162903,
+    "min": 0.589432,
+    "max": 1.57956,
+    "median": 1.32029
+  },
+  "Amygdala_R": {
+    "point_count": 446,
+    "volume": 1505.25,
+    "mean": 1.23924,
+    "stddev": 0.149094,
+    "min": 0.630248,
+    "max": 1.48399,
+    "median": 1.28305
+  },
+  "Calcarine_L": {
+    "point_count": 3003,
+    "volume": 10135.1,
+    "mean": 1.87418,
+    "stddev": 0.3454,
+    "min": 0.666082,
+    "max": 2.70985,
+    "median": 1.94164
+  },
+  "Calcarine_R": {
+    "point_count": 2743,
+    "volume": 9257.62,
+    "mean": 1.89107,
+    "stddev": 0.340933,
+    "min": 0.446785,
+    "max": 2.67406,
+    "median": 1.9601
+  },
+  "Cuneus_L": {
+    "point_count": 1705,
+    "volume": 5754.38,
+    "mean": 1.8104,
+    "stddev": 0.343293,
+    "min": 0.597845,
+    "max": 2.75072,
+    "median": 1.83875
+  },
+  "Cuneus_R": {
+    "point_count": 1941,
+    "volume": 6550.88,
+    "mean": 1.85202,
+    "stddev": 0.350354,
+    "min": 0.614356,
+    "max": 2.61437,
+    "median": 1.89022
+  },
+  "Lingual_L": {
+    "point_count": 3203,
+    "volume": 10810.1,
+    "mean": 1.76024,
+    "stddev": 0.343209,
+    "min": 0.470506,
+    "max": 2.52812,
+    "median": 1.78757
+  },
+  "Lingual_R": {
+    "point_count": 3197,
+    "volume": 10789.9,
+    "mean": 1.77367,
+    "stddev": 0.341303,
+    "min": 0.373129,
+    "max": 2.55321,
+    "median": 1.81033
+  },
+  "Occipital_Sup_L": {
+    "point_count": 1292,
+    "volume": 4360.5,
+    "mean": 1.81307,
+    "stddev": 0.34908,
+    "min": 0.567361,
+    "max": 2.49544,
+    "median": 1.84302
+  },
+  "Occipital_Sup_R": {
+    "point_count": 1454,
+    "volume": 4907.25,
+    "mean": 1.84978,
+    "stddev": 0.363402,
+    "min": 0.323287,
+    "max": 2.59764,
+    "median": 1.9032
+  },
+  "Occipital_Mid_L": {
+    "point_count": 4318,
+    "volume": 14573.2,
+    "mean": 1.8471,
+    "stddev": 0.334579,
+    "min": 0.452781,
+    "max": 2.66759,
+    "median": 1.90737
+  },
+  "Occipital_Mid_R": {
+    "point_count": 2643,
+    "volume": 8920.12,
+    "mean": 1.83574,
+    "stddev": 0.360175,
+    "min": 0.291279,
+    "max": 2.65215,
+    "median": 1.90447
+  },
+  "Occipital_Inf_L": {
+    "point_count": 1492,
+    "volume": 5035.5,
+    "mean": 1.69912,
+    "stddev": 0.310869,
+    "min": 0.444581,
+    "max": 2.52931,
+    "median": 1.7463
+  },
+  "Occipital_Inf_R": {
+    "point_count": 1446,
+    "volume": 4880.25,
+    "mean": 1.68106,
+    "stddev": 0.356986,
+    "min": 0.284016,
+    "max": 2.54324,
+    "median": 1.74649
+  },
+  "Fusiform_L": {
+    "point_count": 4299,
+    "volume": 14509.1,
+    "mean": 1.48626,
+    "stddev": 0.257498,
+    "min": 0.326413,
+    "max": 2.14241,
+    "median": 1.51378
+  },
+  "Fusiform_R": {
+    "point_count": 4284,
+    "volume": 14458.5,
+    "mean": 1.50519,
+    "stddev": 0.264488,
+    "min": 0.341923,
+    "max": 2.32971,
+    "median": 1.52094
+  },
+  "Postcentral_L": {
+    "point_count": 3573,
+    "volume": 12058.9,
+    "mean": 1.73465,
+    "stddev": 0.360578,
+    "min": 0.596423,
+    "max": 2.72488,
+    "median": 1.76707
+  },
+  "Postcentral_R": {
+    "point_count": 3058,
+    "volume": 10320.8,
+    "mean": 1.73792,
+    "stddev": 0.343508,
+    "min": 0.741921,
+    "max": 2.79819,
+    "median": 1.76697
+  },
+  "Parietal_Sup_L": {
+    "point_count": 1707,
+    "volume": 5761.12,
+    "mean": 1.68687,
+    "stddev": 0.349744,
+    "min": 0.622271,
+    "max": 2.59632,
+    "median": 1.68705
+  },
+  "Parietal_Sup_R": {
+    "point_count": 1387,
+    "volume": 4681.12,
+    "mean": 1.69254,
+    "stddev": 0.344514,
+    "min": 0.80414,
+    "max": 2.84028,
+    "median": 1.703
+  },
+  "Parietal_Inf_L": {
+    "point_count": 2982,
+    "volume": 10064.2,
+    "mean": 1.78261,
+    "stddev": 0.338554,
+    "min": 0.607763,
+    "max": 2.75227,
+    "median": 1.80909
+  },
+  "Parietal_Inf_R": {
+    "point_count": 1315,
+    "volume": 4438.12,
+    "mean": 1.87468,
+    "stddev": 0.341374,
+    "min": 0.866241,
+    "max": 2.76272,
+    "median": 1.90472
+  },
+  "SupraMarginal_L": {
+    "point_count": 1689,
+    "volume": 5700.38,
+    "mean": 1.7139,
+    "stddev": 0.321642,
+    "min": 0.641442,
+    "max": 2.4737,
+    "median": 1.75102
+  },
+  "SupraMarginal_R": {
+    "point_count": 2276,
+    "volume": 7681.5,
+    "mean": 1.7641,
+    "stddev": 0.304555,
+    "min": 0.316687,
+    "max": 2.56701,
+    "median": 1.80734
+  },
+  "Angular_L": {
+    "point_count": 1560,
+    "volume": 5265,
+    "mean": 1.90315,
+    "stddev": 0.338449,
+    "min": 0.712273,
+    "max": 2.73061,
+    "median": 1.92811
+  },
+  "Angular_R": {
+    "point_count": 2009,
+    "volume": 6780.38,
+    "mean": 1.90981,
+    "stddev": 0.34864,
+    "min": 0.406877,
+    "max": 3.03354,
+    "median": 1.96028
+  },
+  "Precuneus_L": {
+    "point_count": 3890,
+    "volume": 13128.8,
+    "mean": 1.84238,
+    "stddev": 0.384908,
+    "min": 0.604009,
+    "max": 2.92413,
+    "median": 1.86579
+  },
+  "Precuneus_R": {
+    "point_count": 3569,
+    "volume": 12045.4,
+    "mean": 1.8941,
+    "stddev": 0.371234,
+    "min": 0.552204,
+    "max": 2.80613,
+    "median": 1.94037
+  },
+  "Paracentral_Lobule_L": {
+    "point_count": 933,
+    "volume": 3148.88,
+    "mean": 1.72782,
+    "stddev": 0.362284,
+    "min": 0.788354,
+    "max": 2.61865,
+    "median": 1.7449
+  },
+  "Paracentral_Lobule_R": {
+    "point_count": 628,
+    "volume": 2119.5,
+    "mean": 1.7897,
+    "stddev": 0.385489,
+    "min": 0.895642,
+    "max": 2.67546,
+    "median": 1.79987
+  },
+  "Caudate_L": {
+    "point_count": 1014,
+    "volume": 3422.25,
+    "mean": 1.64188,
+    "stddev": 0.38105,
+    "min": 0.524055,
+    "max": 2.41799,
+    "median": 1.6628
+  },
+  "Caudate_R": {
+    "point_count": 1304,
+    "volume": 4401,
+    "mean": 1.65833,
+    "stddev": 0.371686,
+    "min": 0.586033,
+    "max": 2.4658,
+    "median": 1.69628
+  },
+  "Putamen_L": {
+    "point_count": 1522,
+    "volume": 5136.75,
+    "mean": 1.89739,
+    "stddev": 0.307914,
+    "min": 0.689539,
+    "max": 2.72019,
+    "median": 1.93726
+  },
+  "Putamen_R": {
+    "point_count": 1624,
+    "volume": 5481,
+    "mean": 1.75104,
+    "stddev": 0.359094,
+    "min": 0.670362,
+    "max": 2.75175,
+    "median": 1.73431
+  },
+  "Pallidum_L": {
+    "point_count": 71,
+    "volume": 239.625,
+    "mean": 1.70483,
+    "stddev": 0.346152,
+    "min": 0.785245,
+    "max": 2.32298,
+    "median": 1.75864
+  },
+  "Pallidum_R": {
+    "point_count": 148,
+    "volume": 499.5,
+    "mean": 1.83033,
+    "stddev": 0.307731,
+    "min": 0.941631,
+    "max": 2.54567,
+    "median": 1.82809
+  },
+  "Thalamus_L": {
+    "point_count": 1102,
+    "volume": 3719.25,
+    "mean": 1.66743,
+    "stddev": 0.382616,
+    "min": 0.365685,
+    "max": 2.70616,
+    "median": 1.69533
+  },
+  "Thalamus_R": {
+    "point_count": 995,
+    "volume": 3358.12,
+    "mean": 1.71605,
+    "stddev": 0.346862,
+    "min": 0.767011,
+    "max": 2.69713,
+    "median": 1.74959
+  },
+  "Heschl_L": {
+    "point_count": 341,
+    "volume": 1150.88,
+    "mean": 1.70958,
+    "stddev": 0.291296,
+    "min": 0.939871,
+    "max": 2.23947,
+    "median": 1.75169
+  },
+  "Heschl_R": {
+    "point_count": 294,
+    "volume": 992.25,
+    "mean": 1.72365,
+    "stddev": 0.289803,
+    "min": 0.874006,
+    "max": 2.47064,
+    "median": 1.744
+  },
+  "Temporal_Sup_L": {
+    "point_count": 2948,
+    "volume": 9949.5,
+    "mean": 1.72286,
+    "stddev": 0.324575,
+    "min": 0.739702,
+    "max": 2.67788,
+    "median": 1.75018
+  },
+  "Temporal_Sup_R": {
+    "point_count": 3873,
+    "volume": 13071.4,
+    "mean": 1.69174,
+    "stddev": 0.325055,
+    "min": 0.79148,
+    "max": 2.7078,
+    "median": 1.71984
+  },
+  "Temporal_Pole_Sup_L": {
+    "point_count": 1404,
+    "volume": 4738.5,
+    "mean": 1.39934,
+    "stddev": 0.311374,
+    "min": 0.517552,
+    "max": 2.44391,
+    "median": 1.40558
+  },
+  "Temporal_Pole_Sup_R": {
+    "point_count": 1345,
+    "volume": 4539.38,
+    "mean": 1.41673,
+    "stddev": 0.275289,
+    "min": 0.562232,
+    "max": 2.22904,
+    "median": 1.43063
+  },
+  "Temporal_Mid_L": {
+    "point_count": 7178,
+    "volume": 24225.8,
+    "mean": 1.76701,
+    "stddev": 0.311551,
+    "min": 0.156172,
+    "max": 3.27357,
+    "median": 1.81126
+  },
+  "Temporal_Mid_R": {
+    "point_count": 6177,
+    "volume": 20847.4,
+    "mean": 1.73987,
+    "stddev": 0.307372,
+    "min": 0.343019,
+    "max": 2.54426,
+    "median": 1.78672
+  },
+  "Temporal_Pole_Mid_L": {
+    "point_count": 1241,
+    "volume": 4188.38,
+    "mean": 1.44411,
+    "stddev": 0.31014,
+    "min": 0.206841,
+    "max": 2.45918,
+    "median": 1.45226
+  },
+  "Temporal_Pole_Mid_R": {
+    "point_count": 1614,
+    "volume": 5447.25,
+    "mean": 1.45986,
+    "stddev": 0.259648,
+    "min": 0.469219,
+    "max": 2.47352,
+    "median": 1.48562
+  },
+  "Temporal_Inf_L": {
+    "point_count": 4424,
+    "volume": 14931,
+    "mean": 1.65967,
+    "stddev": 0.371143,
+    "min": 0.16545,
+    "max": 5.52093,
+    "median": 1.67205
+  },
+  "Temporal_Inf_R": {
+    "point_count": 5314,
+    "volume": 17934.8,
+    "mean": 1.63517,
+    "stddev": 0.291057,
+    "min": 0.234199,
+    "max": 2.621,
+    "median": 1.6818
+  },
+  "Cerebelum_Crus1_L": {
+    "point_count": 3769,
+    "volume": 12720.4,
+    "mean": 1.57472,
+    "stddev": 0.281447,
+    "min": 0.43438,
+    "max": 2.31414,
+    "median": 1.64894
+  },
+  "Cerebelum_Crus1_R": {
+    "point_count": 3039,
+    "volume": 10256.6,
+    "mean": 1.585,
+    "stddev": 0.275642,
+    "min": 0.572642,
+    "max": 2.17737,
+    "median": 1.65424
+  },
+  "Cerebelum_Crus2_L": {
+    "point_count": 2800,
+    "volume": 9450,
+    "mean": 1.62488,
+    "stddev": 0.27818,
+    "min": 0.42854,
+    "max": 2.47678,
+    "median": 1.68429
+  },
+  "Cerebelum_Crus2_R": {
+    "point_count": 2612,
+    "volume": 8815.5,
+    "mean": 1.53527,
+    "stddev": 0.292659,
+    "min": 0.272934,
+    "max": 2.10251,
+    "median": 1.60853
+  },
+  "Cerebelum_3_L": {
+    "point_count": 174,
+    "volume": 587.25,
+    "mean": 1.32418,
+    "stddev": 0.239823,
+    "min": 0.687638,
+    "max": 1.72392,
+    "median": 1.36133
+  },
+  "Cerebelum_3_R": {
+    "point_count": 187,
+    "volume": 631.125,
+    "mean": 1.20949,
+    "stddev": 0.27835,
+    "min": 0.502953,
+    "max": 1.68432,
+    "median": 1.30787
+  },
+  "Cerebelum_4_5_L": {
+    "point_count": 1791,
+    "volume": 6044.62,
+    "mean": 1.4489,
+    "stddev": 0.195741,
+    "min": 0.59678,
+    "max": 2.06055,
+    "median": 1.48512
+  },
+  "Cerebelum_4_5_R": {
+    "point_count": 1546,
+    "volume": 5217.75,
+    "mean": 1.40325,
+    "stddev": 0.206328,
+    "min": 0.346017,
+    "max": 1.86589,
+    "median": 1.45246
+  },
+  "Cerebelum_6_L": {
+    "point_count": 3315,
+    "volume": 11188.1,
+    "mean": 1.59127,
+    "stddev": 0.189315,
+    "min": 0.713457,
+    "max": 2.37908,
+    "median": 1.60166
+  },
+  "Cerebelum_6_R": {
+    "point_count": 3397,
+    "volume": 11464.9,
+    "mean": 1.56567,
+    "stddev": 0.188522,
+    "min": 0.371775,
+    "max": 2.09619,
+    "median": 1.58448
+  },
+  "Cerebelum_7b_L": {
+    "point_count": 818,
+    "volume": 2760.75,
+    "mean": 1.67702,
+    "stddev": 0.265479,
+    "min": 0.282544,
+    "max": 2.69597,
+    "median": 1.72472
+  },
+  "Cerebelum_7b_R": {
+    "point_count": 794,
+    "volume": 2679.75,
+    "mean": 1.49831,
+    "stddev": 0.291608,
+    "min": 0.251125,
+    "max": 2.01875,
+    "median": 1.56933
+  },
+  "Cerebelum_8_L": {
+    "point_count": 3059,
+    "volume": 10324.1,
+    "mean": 1.58042,
+    "stddev": 0.22094,
+    "min": 0.494259,
+    "max": 2.13183,
+    "median": 1.62156
+  },
+  "Cerebelum_8_R": {
+    "point_count": 3535,
+    "volume": 11930.6,
+    "mean": 1.44007,
+    "stddev": 0.27938,
+    "min": 0.194517,
+    "max": 2.15502,
+    "median": 1.5005
+  },
+  "Cerebelum_9_L": {
+    "point_count": 1358,
+    "volume": 4583.25,
+    "mean": 1.6481,
+    "stddev": 0.263359,
+    "min": 0.447328,
+    "max": 2.34228,
+    "median": 1.69093
+  },
+  "Cerebelum_9_R": {
+    "point_count": 1320,
+    "volume": 4455,
+    "mean": 1.52211,
+    "stddev": 0.255485,
+    "min": 0.572184,
+    "max": 2.10288,
+    "median": 1.5434
+  },
+  "Cerebelum_10_L": {
+    "point_count": 57,
+    "volume": 192.375,
+    "mean": 1.20738,
+    "stddev": 0.308387,
+    "min": 0.551621,
+    "max": 1.79586,
+    "median": 1.23696
+  },
+  "Cerebelum_10_R": {
+    "point_count": 71,
+    "volume": 239.625,
+    "mean": 1.3486,
+    "stddev": 0.285055,
+    "min": 0.705045,
+    "max": 1.80063,
+    "median": 1.35302
+  },
+  "Vermis_1_2": {
+    "point_count": 61,
+    "volume": 205.875,
+    "mean": 1.29026,
+    "stddev": 0.334885,
+    "min": 0.646626,
+    "max": 1.89068,
+    "median": 1.27784
+  },
+  "Vermis_3": {
+    "point_count": 220,
+    "volume": 742.5,
+    "mean": 1.45224,
+    "stddev": 0.261445,
+    "min": 0.617901,
+    "max": 1.88464,
+    "median": 1.52769
+  },
+  "Vermis_4_5": {
+    "point_count": 787,
+    "volume": 2656.12,
+    "mean": 1.44802,
+    "stddev": 0.257929,
+    "min": 0.563581,
+    "max": 2.23562,
+    "median": 1.49535
+  },
+  "Vermis_6": {
+    "point_count": 520,
+    "volume": 1755,
+    "mean": 1.54293,
+    "stddev": 0.24297,
+    "min": 0.672062,
+    "max": 2.18734,
+    "median": 1.59143
+  },
+  "Vermis_7": {
+    "point_count": 327,
+    "volume": 1103.62,
+    "mean": 1.51813,
+    "stddev": 0.197979,
+    "min": 0.737481,
+    "max": 2.02203,
+    "median": 1.54041
+  },
+  "Vermis_8": {
+    "point_count": 401,
+    "volume": 1353.38,
+    "mean": 1.66106,
+    "stddev": 0.307449,
+    "min": 0.670755,
+    "max": 2.22407,
+    "median": 1.69738
+  },
+  "Vermis_9": {
+    "point_count": 338,
+    "volume": 1140.75,
+    "mean": 1.78209,
+    "stddev": 0.236156,
+    "min": 1.10097,
+    "max": 2.30674,
+    "median": 1.79785
+  },
+  "Vermis_10": {
+    "point_count": 74,
+    "volume": 249.75,
+    "mean": 1.65888,
+    "stddev": 0.395987,
+    "min": 0.78996,
+    "max": 2.47923,
+    "median": 1.70177
+  }
+}
