@@ -8,7 +8,10 @@
     "MC start time": "120",
     "QC": [
         "sub-01_ses-baseline_desc-with_motion_correction.gif",
-        "sub-01_ses-baseline_desc-without_motion_correction.gif"
+        "sub-01_ses-baseline_desc-without_motion_correction.gif",
+        "sub-01_ses-baseline_movement.png",
+        "sub-01_ses-baseline_rotation.png",
+        "sub-01_ses-baseline_translation.png"
     ],
     "SoftwareName": "PETPrep HMC workflow",
     "SoftwareVersion": "0.0.6",
