@@ -1,0 +1,17 @@
+{
+  "name": {
+    "Description": "name of region of interest"
+  },
+  "k2": {
+    "Description": "Estimated k2 rate constant",
+    "Units": ["1/min"]
+  },
+  "R1": {
+    "Description": "Estimated R1",
+    "Units": "unitless"
+  },
+  "BPnd": {
+    "Description": "Estimated non-displaceable binding potential",
+    "Units": "unitless"
+  }
+}
