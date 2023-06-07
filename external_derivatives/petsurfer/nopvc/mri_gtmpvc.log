@@ -1,0 +1,49 @@
+
+dev
+setenv SUBJECTS_DIR /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230/derivatives/freesurfer
+cd /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230
+mri_gtmpvc --i /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230/derivatives/PETPrep/sub-PS11/ses-baselinebrain/pet/sub-PS11_ses-baselinebrain_desc-mc_pet.nii.gz --reg /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230/derivatives/PETPrep/sub-PS11/ses-baselinebrain/pet/sub-PS11_ses-baselinebrain_from-pet_to-T1w_reg.lta --psf 4 --seg /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230/derivatives/freesurfer/sub-PS11/mri/gtmseg.mgz --default-seg-merge --auto-mask 1 .01 --km-ref 8 47 --km-hb 10 11 12 49 50 51 --no-rescale --save-input --save-yhat --o /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230/derivatives/PETPrep/sub-PS11/ses-baselinebrain/pet/nopvc 
+sysname  Darwin
+hostname martinnoergaard.lan
+machine  x86_64
+user     martinnorgaard
+vgthresh   0.001000
+nReplace   18
+0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 
+Loading seg for gtm /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230/derivatives/freesurfer/sub-PS11/mri/gtmseg.mgz
+Loading ctab /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230/derivatives/freesurfer/sub-PS11/mri/gtmseg.ctab
+Reading /Users/martinnorgaard/Dropbox/Mac/Documents/BIDS/data/ds004230/derivatives/freesurfer/sub-PS11/mri/gtmseg.lta
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+Data load time 19.5 sec
+nmask = 397433, nsegs = 100, excluding segid=0
+FWHM: 4 4 4
+Std:  1.69864 1.69864 1.69864
+nPad 8, PadThresh 0.0001
+Segmentations used for KM reference TAC
+   8 Left-Cerebellum-Cortex
+  47 Right-Cerebellum-Cortex
+Segmentations used for KM High Binding TAC
+  10 Left-Thalamus
+  11 Left-Caudate
+  12 Left-Putamen
+  49 Right-Thalamus
+  50 Right-Caudate
+  51 Right-Putamen
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+GTM-Build-time  4.0 sec
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+GTM-Solve-Time 62.0 sec
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+rvar = 219296
+XtX  Condition     7526.169 
+GTMSynth: Seed=0, Reps=1
+XtX  Condition     7526.169 
+VRF  Mean/Min/Max  2272.881   12.774 77373.325 
+MEM: Size 0  Peak: 0   RSS: 0  Data: 0  Stk: 0
+#VMPC# mri_gtmpvc VmPeak  0
+mri_gtmpvc-runtime  1.99 min
+mri_gtmpvc done
