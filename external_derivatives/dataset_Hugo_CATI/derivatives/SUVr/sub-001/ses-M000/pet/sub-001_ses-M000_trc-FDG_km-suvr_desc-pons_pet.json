@@ -1,0 +1,4 @@
+{
+    "Sources": "rawdata/sub-001/ses-M000/pet/sub-001_ses-M000_task-rest_trc-FDG_pet.nii",
+    "ModelParameters": "derivatives/SUVr/sub-001/ses-M000/pet/sub-001_ses-M000_trc-FDG_km-suvr_desc-pons_kinpar.json"
+}
